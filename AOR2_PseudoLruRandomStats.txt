@@ -1,0 +1,1203 @@
+"C:\Program Files\Java\jdk-17.0.1\bin\java.exe" "-javaagent:C:\Users\Matija Milosevic\IntelliJ IDEA 2021.3\lib\idea_rt.jar=59731:C:\Users\Matija Milosevic\IntelliJ IDEA 2021.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Matija Milosevic\IdeaProjects\AOR2_Zadatak1\out\production\AOR2_Zadatak1" main.java.rs.ac.bg.etf.aor2.TestCache
+
+STATISTICS
+----------------------------------------
+Hit count:	 1771587
+Miss count:	 178047
+Hit rate:	 90.87%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1857947
+Miss count:	 91687
+Hit rate:	 95.30%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1893411
+Miss count:	 56223
+Hit rate:	 97.12%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1913396
+Miss count:	 36238
+Hit rate:	 98.14%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1854074
+Miss count:	 95560
+Hit rate:	 95.10%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1899307
+Miss count:	 50327
+Hit rate:	 97.42%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1919120
+Miss count:	 30514
+Hit rate:	 98.43%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1931326
+Miss count:	 18308
+Hit rate:	 99.06%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1891331
+Miss count:	 58303
+Hit rate:	 97.01%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1918345
+Miss count:	 31289
+Hit rate:	 98.40%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1934041
+Miss count:	 15593
+Hit rate:	 99.20%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1941038
+Miss count:	 8596
+Hit rate:	 99.56%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1909431
+Miss count:	 40203
+Hit rate:	 97.94%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1932336
+Miss count:	 17298
+Hit rate:	 99.11%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1941015
+Miss count:	 8619
+Hit rate:	 99.56%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1945031
+Miss count:	 4603
+Hit rate:	 99.76%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1926610
+Miss count:	 23024
+Hit rate:	 98.82%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1938719
+Miss count:	 10915
+Hit rate:	 99.44%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1943943
+Miss count:	 5691
+Hit rate:	 99.71%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946569
+Miss count:	 3065
+Hit rate:	 99.84%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1933230
+Miss count:	 16404
+Hit rate:	 99.16%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1940813
+Miss count:	 8821
+Hit rate:	 99.55%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1945212
+Miss count:	 4422
+Hit rate:	 99.77%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947021
+Miss count:	 2613
+Hit rate:	 99.87%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1936873
+Miss count:	 12761
+Hit rate:	 99.35%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1942587
+Miss count:	 7047
+Hit rate:	 99.64%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1945712
+Miss count:	 3922
+Hit rate:	 99.80%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947371
+Miss count:	 2263
+Hit rate:	 99.88%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1938136
+Miss count:	 11498
+Hit rate:	 99.41%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1943303
+Miss count:	 6331
+Hit rate:	 99.68%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946056
+Miss count:	 3578
+Hit rate:	 99.82%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947562
+Miss count:	 2072
+Hit rate:	 99.89%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1938826
+Miss count:	 10808
+Hit rate:	 99.45%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1943691
+Miss count:	 5943
+Hit rate:	 99.70%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946277
+Miss count:	 3357
+Hit rate:	 99.83%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947664
+Miss count:	 1970
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939376
+Miss count:	 10258
+Hit rate:	 99.47%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1943942
+Miss count:	 5692
+Hit rate:	 99.71%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946378
+Miss count:	 3256
+Hit rate:	 99.83%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947727
+Miss count:	 1907
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939688
+Miss count:	 9946
+Hit rate:	 99.49%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1944061
+Miss count:	 5573
+Hit rate:	 99.71%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946444
+Miss count:	 3190
+Hit rate:	 99.84%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947734
+Miss count:	 1900
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939835
+Miss count:	 9799
+Hit rate:	 99.50%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1944136
+Miss count:	 5498
+Hit rate:	 99.72%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946450
+Miss count:	 3184
+Hit rate:	 99.84%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947739
+Miss count:	 1895
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939925
+Miss count:	 9709
+Hit rate:	 99.50%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1944142
+Miss count:	 5492
+Hit rate:	 99.72%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946456
+Miss count:	 3178
+Hit rate:	 99.84%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947744
+Miss count:	 1890
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939932
+Miss count:	 9702
+Hit rate:	 99.50%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1944149
+Miss count:	 5485
+Hit rate:	 99.72%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946460
+Miss count:	 3174
+Hit rate:	 99.84%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947752
+Miss count:	 1882
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1865799
+Miss count:	 83835
+Hit rate:	 95.70%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1900981
+Miss count:	 48653
+Hit rate:	 97.50%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1919500
+Miss count:	 30134
+Hit rate:	 98.45%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1930928
+Miss count:	 18706
+Hit rate:	 99.04%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1890644
+Miss count:	 58990
+Hit rate:	 96.97%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1916820
+Miss count:	 32814
+Hit rate:	 98.32%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1933059
+Miss count:	 16575
+Hit rate:	 99.15%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1940558
+Miss count:	 9076
+Hit rate:	 99.53%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1908710
+Miss count:	 40924
+Hit rate:	 97.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1932043
+Miss count:	 17591
+Hit rate:	 99.10%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1941248
+Miss count:	 8386
+Hit rate:	 99.57%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1944278
+Miss count:	 5356
+Hit rate:	 99.73%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1925767
+Miss count:	 23867
+Hit rate:	 98.78%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1938763
+Miss count:	 10871
+Hit rate:	 99.44%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1943291
+Miss count:	 6343
+Hit rate:	 99.67%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946148
+Miss count:	 3486
+Hit rate:	 99.82%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1933639
+Miss count:	 15995
+Hit rate:	 99.18%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1941126
+Miss count:	 8508
+Hit rate:	 99.56%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1945027
+Miss count:	 4607
+Hit rate:	 99.76%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946955
+Miss count:	 2679
+Hit rate:	 99.86%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1935941
+Miss count:	 13693
+Hit rate:	 99.30%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1942454
+Miss count:	 7180
+Hit rate:	 99.63%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1945602
+Miss count:	 4032
+Hit rate:	 99.79%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947280
+Miss count:	 2354
+Hit rate:	 99.88%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1937793
+Miss count:	 11841
+Hit rate:	 99.39%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1943114
+Miss count:	 6520
+Hit rate:	 99.67%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1945934
+Miss count:	 3700
+Hit rate:	 99.81%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947509
+Miss count:	 2125
+Hit rate:	 99.89%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1938572
+Miss count:	 11062
+Hit rate:	 99.43%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1943634
+Miss count:	 6000
+Hit rate:	 99.69%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946208
+Miss count:	 3426
+Hit rate:	 99.82%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947643
+Miss count:	 1991
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939245
+Miss count:	 10389
+Hit rate:	 99.47%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1943889
+Miss count:	 5745
+Hit rate:	 99.71%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946337
+Miss count:	 3297
+Hit rate:	 99.83%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947673
+Miss count:	 1961
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939583
+Miss count:	 10051
+Hit rate:	 99.48%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1944007
+Miss count:	 5627
+Hit rate:	 99.71%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946384
+Miss count:	 3250
+Hit rate:	 99.83%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947727
+Miss count:	 1907
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939762
+Miss count:	 9872
+Hit rate:	 99.49%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1944064
+Miss count:	 5570
+Hit rate:	 99.71%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946444
+Miss count:	 3190
+Hit rate:	 99.84%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947734
+Miss count:	 1900
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939836
+Miss count:	 9798
+Hit rate:	 99.50%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1944136
+Miss count:	 5498
+Hit rate:	 99.72%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946450
+Miss count:	 3184
+Hit rate:	 99.84%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947739
+Miss count:	 1895
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939925
+Miss count:	 9709
+Hit rate:	 99.50%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1944142
+Miss count:	 5492
+Hit rate:	 99.72%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946456
+Miss count:	 3178
+Hit rate:	 99.84%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947744
+Miss count:	 1890
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1890640
+Miss count:	 58994
+Hit rate:	 96.97%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1917632
+Miss count:	 32002
+Hit rate:	 98.36%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1933295
+Miss count:	 16339
+Hit rate:	 99.16%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1941098
+Miss count:	 8536
+Hit rate:	 99.56%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1909224
+Miss count:	 40410
+Hit rate:	 97.93%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1932519
+Miss count:	 17115
+Hit rate:	 99.12%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1941370
+Miss count:	 8264
+Hit rate:	 99.58%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1944445
+Miss count:	 5189
+Hit rate:	 99.73%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1927841
+Miss count:	 21793
+Hit rate:	 98.88%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939303
+Miss count:	 10331
+Hit rate:	 99.47%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1943236
+Miss count:	 6398
+Hit rate:	 99.67%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1945506
+Miss count:	 4128
+Hit rate:	 99.79%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1934069
+Miss count:	 15565
+Hit rate:	 99.20%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1940546
+Miss count:	 9088
+Hit rate:	 99.53%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1944476
+Miss count:	 5158
+Hit rate:	 99.74%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946829
+Miss count:	 2805
+Hit rate:	 99.86%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1935958
+Miss count:	 13676
+Hit rate:	 99.30%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1942149
+Miss count:	 7485
+Hit rate:	 99.62%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1945437
+Miss count:	 4197
+Hit rate:	 99.78%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947278
+Miss count:	 2356
+Hit rate:	 99.88%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1937306
+Miss count:	 12328
+Hit rate:	 99.37%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1942947
+Miss count:	 6687
+Hit rate:	 99.66%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1945927
+Miss count:	 3707
+Hit rate:	 99.81%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947445
+Miss count:	 2189
+Hit rate:	 99.89%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1938372
+Miss count:	 11262
+Hit rate:	 99.42%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1943502
+Miss count:	 6132
+Hit rate:	 99.69%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946094
+Miss count:	 3540
+Hit rate:	 99.82%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947520
+Miss count:	 2114
+Hit rate:	 99.89%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1938916
+Miss count:	 10718
+Hit rate:	 99.45%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1943732
+Miss count:	 5902
+Hit rate:	 99.70%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946215
+Miss count:	 3419
+Hit rate:	 99.82%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947643
+Miss count:	 1991
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939345
+Miss count:	 10289
+Hit rate:	 99.47%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1943891
+Miss count:	 5743
+Hit rate:	 99.71%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946337
+Miss count:	 3297
+Hit rate:	 99.83%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947673
+Miss count:	 1961
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939585
+Miss count:	 10049
+Hit rate:	 99.48%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1944007
+Miss count:	 5627
+Hit rate:	 99.71%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946384
+Miss count:	 3250
+Hit rate:	 99.83%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947727
+Miss count:	 1907
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939762
+Miss count:	 9872
+Hit rate:	 99.49%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1944064
+Miss count:	 5570
+Hit rate:	 99.71%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946444
+Miss count:	 3190
+Hit rate:	 99.84%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947734
+Miss count:	 1900
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939836
+Miss count:	 9798
+Hit rate:	 99.50%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1944136
+Miss count:	 5498
+Hit rate:	 99.72%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946450
+Miss count:	 3184
+Hit rate:	 99.84%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947739
+Miss count:	 1895
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1909153
+Miss count:	 40481
+Hit rate:	 97.92%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1932486
+Miss count:	 17148
+Hit rate:	 99.12%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1941393
+Miss count:	 8241
+Hit rate:	 99.58%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1944436
+Miss count:	 5198
+Hit rate:	 99.73%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1927438
+Miss count:	 22196
+Hit rate:	 98.86%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939216
+Miss count:	 10418
+Hit rate:	 99.47%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1942846
+Miss count:	 6788
+Hit rate:	 99.65%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1945443
+Miss count:	 4191
+Hit rate:	 99.79%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1933743
+Miss count:	 15891
+Hit rate:	 99.18%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1940119
+Miss count:	 9515
+Hit rate:	 99.51%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1943989
+Miss count:	 5645
+Hit rate:	 99.71%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946067
+Miss count:	 3567
+Hit rate:	 99.82%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1935383
+Miss count:	 14251
+Hit rate:	 99.27%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1941460
+Miss count:	 8174
+Hit rate:	 99.58%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1944881
+Miss count:	 4753
+Hit rate:	 99.76%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947073
+Miss count:	 2561
+Hit rate:	 99.87%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1937104
+Miss count:	 12530
+Hit rate:	 99.36%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1942533
+Miss count:	 7101
+Hit rate:	 99.64%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1945740
+Miss count:	 3894
+Hit rate:	 99.80%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947245
+Miss count:	 2389
+Hit rate:	 99.88%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1937938
+Miss count:	 11696
+Hit rate:	 99.40%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1943328
+Miss count:	 6306
+Hit rate:	 99.68%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1945896
+Miss count:	 3738
+Hit rate:	 99.81%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947445
+Miss count:	 2189
+Hit rate:	 99.89%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1938596
+Miss count:	 11038
+Hit rate:	 99.43%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1943430
+Miss count:	 6204
+Hit rate:	 99.68%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946095
+Miss count:	 3539
+Hit rate:	 99.82%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947520
+Miss count:	 2114
+Hit rate:	 99.89%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1938928
+Miss count:	 10706
+Hit rate:	 99.45%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1943732
+Miss count:	 5902
+Hit rate:	 99.70%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946215
+Miss count:	 3419
+Hit rate:	 99.82%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947643
+Miss count:	 1991
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939345
+Miss count:	 10289
+Hit rate:	 99.47%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1943891
+Miss count:	 5743
+Hit rate:	 99.71%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946337
+Miss count:	 3297
+Hit rate:	 99.83%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947673
+Miss count:	 1961
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939585
+Miss count:	 10049
+Hit rate:	 99.48%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1944007
+Miss count:	 5627
+Hit rate:	 99.71%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946384
+Miss count:	 3250
+Hit rate:	 99.83%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947727
+Miss count:	 1907
+Hit rate:	 99.90%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1939762
+Miss count:	 9872
+Hit rate:	 99.49%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1944064
+Miss count:	 5570
+Hit rate:	 99.71%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1946444
+Miss count:	 3190
+Hit rate:	 99.84%
+
+STATISTICS
+----------------------------------------
+Hit count:	 1947734
+Miss count:	 1900
+Hit rate:	 99.90%
+
+Process finished with exit code 0
